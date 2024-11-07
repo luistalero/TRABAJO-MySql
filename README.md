@@ -83,4 +83,118 @@
 
 - Caso
 
+  ![image](https://github.com/user-attachments/assets/34452e5b-dc56-4308-bd81-7b3311f67444)
+
+- Respuesta
+
+  ![image](https://github.com/user-attachments/assets/09b16830-02cb-4977-acc6-ed7123f091e9)
+
+## 10.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/0905f72c-7b67-41b1-9524-be6e633a9332)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/c0fc0337-6ecd-4e2a-a230-b7a414ed1bf8)
+
+## 11.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/98265cda-c7ad-4d48-8fc5-6f990b212eb8)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/c7b01b0d-e777-4e3d-bcbc-faccd6261ddd)
+
+## 12.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/bb7c845d-3b06-47ec-a3cb-c3e653130d84)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/1b3eea6e-672b-44da-9cef-bc0f8e7183fe)
+
+## 13.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/88056468-10ce-4fd8-b2a7-da3e89da7002)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/68a0b7e8-8162-458e-af4a-670b3c01c7c9)
   
+## 14.
+
+- Caso
+ 
+  ![image](https://github.com/user-attachments/assets/89934b75-785d-4865-97e7-a05399449b3e)
+
+- Resultado
+
+ ![image](https://github.com/user-attachments/assets/b214e645-d37c-4603-a824-65df00b6e658)
+
+## 15.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/e14ee726-b84d-495c-ac25-1f4e2e1c4372)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/483fe952-a821-4465-9285-dc0e14ffae62)
+  
+## 16.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/75cabcb5-dcdd-48a4-9366-b7a61aac83bb)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/6a13ad62-dd3a-480d-bcc4-aab9540b071e)
+
+## 17. 
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/e8278d01-3b49-48b2-963d-52ffd5b49411)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/973d8a58-8b03-48ca-9072-966b4e1dcfb4)
+
+## 18.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/151a3a91-5f68-4733-84b1-9da592d17c35)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/1ee64cef-befd-4edd-b673-38eeaafe47b0)
+
+## 19.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/accb5b4e-43f2-441b-b1ae-75e975f08807)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/b501a8f8-1798-4aa4-894e-b2baca8b8e7f)
+
+## 20.
+
+- Caso
+
+  ![image](https://github.com/user-attachments/assets/2f672b80-b092-4a0c-8c56-4b1389a8cdda)
+
+- Resultado
+
+  ![image](https://github.com/user-attachments/assets/2efa3a2a-f6d7-4073-86c8-1205feb30524)
